@@ -1,13 +1,28 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "简单介绍我的工作，地图推断，地图更新"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+### 计算机视觉构建地图任务
+
+1. **数据收集**：收集包含所需地理信息的图像或视频数据。这些数据可以是通过卫星、飞机或地面摄像机采集的。
+
+2. **图像处理**：对收集到的图像或视频进行处理，包括去除噪音、调整图像质量、进行几何校正等，以提高后续地图构建的准确性。
+
+3. **特征提取**：利用计算机视觉技术，从图像中提取地理信息的特征，例如建筑物、道路、水体等。这可能涉及目标检测、语义分割等技术。
+
+4. **地图构建**：根据提取到的地理信息特征，构建地图模型。这可以是根据图像中的像素位置将特征映射到地理坐标上，或者使用几何信息构建三维地图模型。
+
+5. **地图整合与验证**：将不同来源的地图数据整合在一起，并对生成的地图进行验证和校准，以确保地图的准确性和一致性。
+
+6. **输出地图**：生成各种格式的地图文件，以便于在导航应用程序、地理信息系统(GIS)中使用，或者直接打印成纸质地图。
+
+这些步骤需要结合使用计算机视觉、图像处理、地图学和机器学习等技术，并且需要考虑数据的质量、处理算法的效率以及地图的准确性和实用性。
+
 
 A data-driven personal website
 ======
