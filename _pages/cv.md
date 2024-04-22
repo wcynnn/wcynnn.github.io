@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 硕士 in dase, ecnu, 2023-
+* 本科. in 理学院, 浙江工业大学, 2019-2023
 
 Work experience
 ======
@@ -34,12 +33,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++
+* python
+  * 数据分析
+  * 机器学习
+  * 深度学习
 
 Publications
 ======
