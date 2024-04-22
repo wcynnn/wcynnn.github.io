@@ -1,13 +1,22 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "总结报告"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+## 开源第一次作业总结报告
+建立一个人主页
+1.首先将别人写好的主页模板fork到自己的仓库.
+2.在_config.yml中修改基本信息，如姓名，地址等.
+3.在_pages文件夹中添加工作介绍，照片展示，个人简历，总结报告四个功能.
+* Go to the [工作介绍](https://wcynnn.github.io/).
+* Go to the [照片展示](https://wcynnn.github.io/portfolio/).
+* Go to the [个人简历](https://wcynnn.github.io/cv/).
+* Go to the [总结报告](https://wcynnn.github.io/markdown/).
 
-## Locations of key files/directories
+感想：这个个人简历模板非常简约使用，适合以后工作投简历时使用，后续会增加更多的功能实现，例如成果展示等。
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
