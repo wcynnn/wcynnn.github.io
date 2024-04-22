@@ -22,9 +22,9 @@ repository               : "wcynnn/wcynnn.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Wcy"
+  name             : "王超亚"
   pronouns         : # example: "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "数据科学"
   location         : "中国上海"
   employer         : "华东师范大学"
   uri              : # URL
